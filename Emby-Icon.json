@@ -120,20 +120,6 @@
       "short_code": "d6979823",
       "shape": "circle",
       "uploaded_at": "2026-06-29 00:08:06"
-    },
-    {
-      "name": "测试图标",
-      "filename": "测试图标_f829b914.png",
-      "short_code": "f829b914",
-      "shape": "square",
-      "uploaded_at": "2026-06-29 00:34:53"
-    },
-    {
-      "name": "test_icon",
-      "filename": "test_icon_f829b914.png",
-      "short_code": "f829b914",
-      "shape": "circle",
-      "uploaded_at": "2026-06-29 00:34:56"
     }
   ]
 }
