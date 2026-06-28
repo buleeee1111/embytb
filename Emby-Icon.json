@@ -73,13 +73,6 @@
       "uploaded_at": "2026-06-29 00:06:34"
     },
     {
-      "name": "small",
-      "filename": "small_d6979823.png",
-      "short_code": "d6979823",
-      "shape": "transparent",
-      "uploaded_at": "2026-06-29 00:06:37"
-    },
-    {
       "name": "test",
       "filename": "test_1005eaf7.jpg",
       "short_code": "1005eaf7",
@@ -92,34 +85,6 @@
       "short_code": "098f6bcd",
       "shape": "square",
       "uploaded_at": "2026-06-29 00:07:34"
-    },
-    {
-      "name": "_2024",
-      "filename": "_2024_d6979823.png",
-      "short_code": "d6979823",
-      "shape": "circle",
-      "uploaded_at": "2026-06-29 00:07:58"
-    },
-    {
-      "name": "IMG_1234",
-      "filename": "IMG_1234_d6979823.png",
-      "short_code": "d6979823",
-      "shape": "square",
-      "uploaded_at": "2026-06-29 00:08:00"
-    },
-    {
-      "name": "IMG_0001",
-      "filename": "IMG_0001_d6979823.heic",
-      "short_code": "d6979823",
-      "shape": "circle",
-      "uploaded_at": "2026-06-29 00:08:03"
-    },
-    {
-      "name": "icon2x",
-      "filename": "icon2x_d6979823.png",
-      "short_code": "d6979823",
-      "shape": "circle",
-      "uploaded_at": "2026-06-29 00:08:06"
     }
   ]
 }
