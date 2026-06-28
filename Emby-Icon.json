@@ -17,13 +17,6 @@
       "uploaded_at": "2026-06-28 23:48:02"
     },
     {
-      "name": "test",
-      "filename": "test_098f6bcd.png",
-      "short_code": "098f6bcd",
-      "shape": "circle",
-      "uploaded_at": "2026-06-29 00:05:06"
-    },
-    {
       "name": "real_test",
       "filename": "real_test_dff683d8.png",
       "short_code": "dff683d8",
@@ -36,13 +29,6 @@
       "short_code": "1005eaf7",
       "shape": "square",
       "uploaded_at": "2026-06-29 00:06:41"
-    },
-    {
-      "name": "test_icon",
-      "filename": "test_icon_098f6bcd.png",
-      "short_code": "098f6bcd",
-      "shape": "square",
-      "uploaded_at": "2026-06-29 00:07:34"
     }
   ]
 }
