@@ -32,6 +32,12 @@
       "filename": "TestIcon_01c42676.png",
       "shape": "square",
       "uploaded_at": "2026-06-28 21:15:23"
+    },
+    {
+      "name": "圆形图标",
+      "filename": "CircleIcon_01c42676.png",
+      "shape": "circle",
+      "uploaded_at": "2026-06-28 21:15:26"
     }
   ]
 }
