@@ -6,6 +6,11 @@
       "name": "Content-Disposition: form-data; name=\"icon_name\"",
       "filename": "TestIcon_f4a506a5.png",
       "uploaded_at": "2026-06-28 19:59:58"
+    },
+    {
+      "name": "Emby图标",
+      "filename": "MyEmbyIcon_f829b914.png",
+      "uploaded_at": "2026-06-28 20:24:18"
     }
   ]
 }
