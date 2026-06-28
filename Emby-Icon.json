@@ -29,6 +29,13 @@
       "short_code": "01161fc1",
       "shape": "square",
       "uploaded_at": "2026-06-29 06:23:15"
+    },
+    {
+      "name": "shape_circle",
+      "filename": "c_bd5a2798.png",
+      "short_code": "bd5a2798",
+      "shape": "circle",
+      "uploaded_at": "2026-06-29 06:25:56"
     }
   ]
 }
