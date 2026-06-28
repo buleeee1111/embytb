@@ -134,6 +134,13 @@
       "short_code": "f829b914",
       "shape": "square",
       "uploaded_at": "2026-06-29 00:34:53"
+    },
+    {
+      "name": "test_icon",
+      "filename": "test_icon_f829b914.png",
+      "short_code": "f829b914",
+      "shape": "circle",
+      "uploaded_at": "2026-06-29 00:34:56"
     }
   ]
 }
