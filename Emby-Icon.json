@@ -92,6 +92,13 @@
       "short_code": "1005eaf7",
       "shape": "square",
       "uploaded_at": "2026-06-29 00:06:41"
+    },
+    {
+      "name": "test_icon",
+      "filename": "test_icon_098f6bcd.png",
+      "short_code": "098f6bcd",
+      "shape": "square",
+      "uploaded_at": "2026-06-29 00:07:34"
     }
   ]
 }
