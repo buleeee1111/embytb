@@ -85,6 +85,13 @@
       "short_code": "d6979823",
       "shape": "transparent",
       "uploaded_at": "2026-06-29 00:06:37"
+    },
+    {
+      "name": "test",
+      "filename": "test_1005eaf7.jpg",
+      "short_code": "1005eaf7",
+      "shape": "square",
+      "uploaded_at": "2026-06-29 00:06:41"
     }
   ]
 }
