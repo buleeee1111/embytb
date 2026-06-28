@@ -43,6 +43,13 @@
       "short_code": "d5f46911",
       "shape": "square",
       "uploaded_at": "2026-06-29 06:25:59"
+    },
+    {
+      "name": "shape_transparent",
+      "filename": "t_f338fbe0.png",
+      "short_code": "f338fbe0",
+      "shape": "transparent",
+      "uploaded_at": "2026-06-29 06:26:01"
     }
   ]
 }
