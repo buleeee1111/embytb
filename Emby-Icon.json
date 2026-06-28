@@ -1,5 +1,11 @@
 {
   "name": "embytb 图标库",
   "description": "Emby 图标上传站｜由社区用户上传维护",
-  "icons": []
+  "icons": [
+    {
+      "name": "Content-Disposition: form-data; name=\"icon_name\"",
+      "filename": "TestIcon_f4a506a5.png",
+      "uploaded_at": "2026-06-28 19:59:58"
+    }
+  ]
 }
