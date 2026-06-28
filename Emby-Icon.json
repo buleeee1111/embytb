@@ -5,51 +5,60 @@
     {
       "name": "Content-Disposition: form-data; name=\"icon_name\"",
       "filename": "TestIcon_f4a506a5.png",
-      "uploaded_at": "2026-06-28 19:59:58"
+      "uploaded_at": "2026-06-28 19:59:58",
+      "short_code": "f4a506a5"
     },
     {
       "name": "Emby图标",
       "filename": "MyEmbyIcon_f829b914.png",
-      "uploaded_at": "2026-06-28 20:24:18"
+      "uploaded_at": "2026-06-28 20:24:18",
+      "short_code": "f829b914"
     },
     {
       "name": "蓝色图标",
       "filename": "BlueIcon_f829b914.png",
-      "uploaded_at": "2026-06-28 20:29:31"
+      "uploaded_at": "2026-06-28 20:29:31",
+      "short_code": "f829b914"
     },
     {
       "name": "最终测试",
       "filename": "FinalTest_f829b914.png",
-      "uploaded_at": "2026-06-28 20:31:17"
+      "uploaded_at": "2026-06-28 20:31:17",
+      "short_code": "f829b914"
     },
     {
       "name": "WallpaperEngineOverride_randomXDCFVN",
       "filename": "WallpaperEngineOverride_randomXDCFVN_07149066.jpg",
-      "uploaded_at": "2026-06-28 20:32:51"
+      "uploaded_at": "2026-06-28 20:32:51",
+      "short_code": "07149066"
     },
     {
       "name": "测试图标",
       "filename": "TestIcon_01c42676.png",
       "shape": "square",
-      "uploaded_at": "2026-06-28 21:15:23"
+      "uploaded_at": "2026-06-28 21:15:23",
+      "short_code": "01c42676"
     },
     {
       "name": "圆形图标",
       "filename": "CircleIcon_01c42676.png",
       "shape": "circle",
-      "uploaded_at": "2026-06-28 21:15:26"
+      "uploaded_at": "2026-06-28 21:15:26",
+      "short_code": "01c42676"
     },
     {
       "name": "修复测试",
       "filename": "Fixed_f829b914.png",
       "shape": "square",
-      "uploaded_at": "2026-06-28 22:44:30"
+      "uploaded_at": "2026-06-28 22:44:30",
+      "short_code": "f829b914"
     },
     {
       "name": "IMG_5567",
       "filename": "IMG_5567_8c3be4e0.jpeg",
       "shape": "circle",
-      "uploaded_at": "2026-06-28 23:04:15"
+      "uploaded_at": "2026-06-28 23:04:15",
+      "short_code": "8c3be4e0"
     }
   ]
 }
