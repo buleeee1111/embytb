@@ -17,39 +17,11 @@
       "uploaded_at": "2026-06-28 23:48:02"
     },
     {
-      "name": "中文测试",
-      "filename": "__a6ba31b3.png",
-      "short_code": "a6ba31b3",
-      "shape": "square",
-      "uploaded_at": "2026-06-28 23:56:18"
-    },
-    {
       "name": "IMG_5642",
       "filename": "IMG_5642_a71f8749.jpeg",
       "short_code": "a71f8749",
       "shape": "square",
       "uploaded_at": "2026-06-28 23:56:47"
-    },
-    {
-      "name": "圆形测试",
-      "filename": "circle_test_a6ba31b3.png",
-      "short_code": "a6ba31b3",
-      "shape": "circle",
-      "uploaded_at": "2026-06-28 23:58:46"
-    },
-    {
-      "name": "服务器测试",
-      "filename": "server_test_a6ba31b3.png",
-      "short_code": "a6ba31b3",
-      "shape": "square",
-      "uploaded_at": "2026-06-29 00:00:25"
-    },
-    {
-      "name": "最终验证",
-      "filename": "final_test_a6ba31b3.png",
-      "short_code": "a6ba31b3",
-      "shape": "circle",
-      "uploaded_at": "2026-06-29 00:02:43"
     },
     {
       "name": "test",
