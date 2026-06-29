@@ -1,5 +1,13 @@
 {
   "name": "embytb 图标库",
   "description": "Emby 图标上传站｜由社区用户上传维护",
-  "icons": []
+  "icons": [
+    {
+      "name": "IMG_5456",
+      "filename": "IMG_5456_daed6185.png",
+      "short_code": "daed6185",
+      "shape": "circle",
+      "uploaded_at": "2026-06-29 08:08:16"
+    }
+  ]
 }
