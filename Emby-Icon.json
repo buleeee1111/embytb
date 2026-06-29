@@ -1,5 +1,13 @@
 {
   "name": "embytb 图标库",
   "description": "Emby 图标上传站｜由社区用户上传维护",
-  "icons": []
+  "icons": [
+    {
+      "name": "思思测试改名",
+      "filename": "思思测试改名_3b2d1ff4.png",
+      "short_code": "3b2d1ff4",
+      "shape": "square",
+      "uploaded_at": "2026-06-29 08:15:18"
+    }
+  ]
 }
